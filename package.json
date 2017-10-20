@@ -1,0 +1,9 @@
+{
+    "name": "ecolematernelle",
+    "description": "front school website",
+    "version": "0.1.0",
+    "dependencies": {
+        "react": "0.16.0",
+        "react-dom": "0.16.0"
+    }
+}
